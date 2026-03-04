@@ -345,6 +345,7 @@ ubuntu-ir.org
 wiki.ubuntu-ir.org
 fsiran.org
 fossfa.ir
+oblivion-zagreus.netlify.app
 parchlinux.com
 bazargan.com
 phantastic.me
